@@ -1,0 +1,47 @@
+{
+  "name": "noi",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@react-spring/addons": "^9.0.0-beta.33",
+    "@testing-library/jest-dom": "^5.11.8",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.6.0",
+    "aos": "^3.0.0-beta.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "react-icons": "^4.1.0",
+    "react-particles-js": "^3.4.1",
+    "react-responsive-animate-navbar": "^1.1.8",
+    "react-scripts": "4.0.1",
+    "react-scroll-to-top": "^1.0.5",
+    "react-spring": "^8.0.27",
+    "styled-components": "^5.2.1",
+    "vanta": "^0.5.21",
+    "web-vitals": "^0.2.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
