@@ -1,7 +1,7 @@
 import React from 'react'
 import { StyledBrandImgs,StyledHrBar, StyledFinalInside, StyledFinalRoot,StyledAnchor, StyledH1, StyledH2White, StyledSection, StyledTwoBrands, StyledWhiteText } from './styledCompExports/StylecCompStyle'
-import UCSCLOGO from '../images/UCSCLogo.png'
-import ACM from '../images/ACM.png'
+import UCSCLOGO from './images/UCSCLogo.png'
+import ACM from './images/ACM.png'
 
 function SectionThree() {
 

@@ -1,5 +1,5 @@
 import React from 'react'
-import MAINPNG from '../images/NOIP.png'
+import MAINPNG from './images/NOIP.png'
 import { StyledContentDiv, StyledMainBAnnerImg, StyledH6, StyledSectionTop, StyledFlexCenter } from './styledCompExports/StylecCompStyle'
 
 
